@@ -1,0 +1,16 @@
+.footer {
+    background-color: black;
+    color: white;
+    border-top: 2px solid aqua;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-block: 0.5rem;
+}
+
+.footer h2 {
+    font-size: 0.75rem;
+    font-weight: 500;
+}
